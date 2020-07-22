@@ -1,8 +1,6 @@
 var tStart = 100 // Start transition 100px from top
   , tEnd = 500   // End at 500px
-  // , cStart = [239, 177, 211]
   , cStart = [167,213,163]
-  // , cEnd = [231, 131, 186]
   , cEnd = [167,213,163]
   , cDiff = [cEnd[0] - cStart[0], cEnd[1] - cStart[1], cEnd[2] - cStart[2]];
 

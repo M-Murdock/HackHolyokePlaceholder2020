@@ -4,18 +4,6 @@ body {
   font-family: Andale Mono;
 }
 
-/* header {
-  background-color: rgb(187,89,147);
-  position:fixed;
-  left: 0;
-  right: 0;
-  display: flex;
-  justify-content: flex-start;
-  grid-area: head;
-  font-size: 17px;
-  color: white;
-} */
-
 footer {
   background-color: rgb(167, 37, 62);
   left: 0;
@@ -112,47 +100,7 @@ h1 {
     height: 100vh;
   }
 }
-/*
-.faq-item {
-  background-color: gray;
-  border-radius: 5%;
-  padding:5px;
-  margin:5px;
-}
-
-
-#fox {
-  height:300px;
-  width:300px;
-} */
 
 #countdown {
   color:rgb(228,126,110);
 }
-
-/* #faq-content {
-  display: flex;
-  flex-direction: column;
-}
-
-.collapsed {
-  height:20px;
-  overflow: hidden;
-}
-
-.expanded {
-  height:auto;
-}
-
-.team-member {
-  border-radius:100%;
-  border-color: blue;
-  border-style: double;
-  width:50px;
-  height:50px;
-
-}
-
-#about-content {
-  color: rgb(203,47,90)
-} */
